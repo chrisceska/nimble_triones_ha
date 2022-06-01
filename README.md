@@ -1,5 +1,10 @@
-# nimble_triones
-Control Triones based LED strips from an ESP32 using the Nimble BTLE stack and MQTT.
+# nimble_triones_ha
+Control Triones based LED strips from an ESP32 using the Nimble BTLE stack and MQTT AND Home Assistant Auto Discovery
+
+Original Project:   8none1/nimble_triones
+
+Adding Home Assistant Auto Discovery for Devices Found
+
 
 ![image](https://user-images.githubusercontent.com/6552931/126961723-b64c8e99-0da0-4924-b254-b4c116330f11.png)
 
