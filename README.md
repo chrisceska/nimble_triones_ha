@@ -5,9 +5,7 @@ Original Project:   8none1/nimble_triones
 
 Adding Home Assistant Auto Discovery for Devices Found
 
-
-![image](https://user-images.githubusercontent.com/6552931/126961723-b64c8e99-0da0-4924-b254-b4c116330f11.png)
-
+# *** Most of this will Change ***
 
 # Quick start in six steps
 1. Read the prerequisites and flash this sketch to your ESP32
